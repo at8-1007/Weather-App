@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+h3 {
+	font-family: Century Gothic;
+	font-size: 36px;
+	font-weight: lighter;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+}
+
+body {
+	font-family: "Georgia";
+	font-size: 12x;
+	text-algin: center;
+}
+
+select {
+	width: 165px;
+}
+
+.hi {
+	color:  red;
+	font-weight: bold;
+}
+
+.low {
+	color: blue;
+	font-weight: bold;
+}
+
+.description {
+	font-size: 11px;
+	color: blue;
+}
+
+img {
+	margin: 0px 0px 0px 10px;
+	align: right;
+	display: inline-block
+}
